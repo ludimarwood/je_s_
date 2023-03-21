@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-blog: "oui"
+title: "Critiques"
+critiques: "oui"
 ---
 
-## Liste des posts
+## Critiques
