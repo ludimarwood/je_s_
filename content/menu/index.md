@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- **[Blog]({{< relref "/blog" >}})**
+- **[Critiques]({{< relref "/critiques" >}})**
 - **[À propos]({{< relref "/about" >}})**
 
 
