@@ -1,6 +1,6 @@
 ---
-title: "Critique"
-Critique: "oui"
+title: "blog"
+blog: "oui"
 ---
 
-## critique
+## blog
