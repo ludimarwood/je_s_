@@ -3,9 +3,7 @@ title: "Critique"
 date: 2023-03-20
 ---
 
-## Critique
-
-# Un cœur trop rouge
+## Un coeur trop rouge
 
 Les films sont de couleurs. Facilement repérables dans la photographie, elles sont plus subtiles dans les thèmes, au travers des gestes ou des regards. Trouver le départ d’une couleur, voilà qui intrigue. Le mécanisme à apprivoiser. Oui. L’une m’échappe. Naïve primaire. Ressentie d’occasion, je la tais systématiquement. Rouge, non, je ne devrais la nommer. Impossible. N’accepter de définition trop commune. Il faut que je m’y penche. Que j’appelle. Que j’établisse
 Le Moment Rouge. 
@@ -64,7 +62,7 @@ quel espace réflexif permet de discourir
 
 
 
-![image](https://user-images.githubusercontent.com/124743783/229936914-b96d22de-7cf1-4e8d-9e61-65c119ba95c8.png)
+
 
 
 
