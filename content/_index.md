@@ -1,4 +1,4 @@
 
-Bienvenu, ceci est la page de présentation du Modèle 3.
+Un zine cinématographique.
 
-Thème à partir du projet [Hugo-Book](https://github.com/alex-shpak/hugo-book)
+
