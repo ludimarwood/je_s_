@@ -1,5 +1,5 @@
 ---
-title: "Viking, un coeur trop rouge"
+title: "Viking"
 date: 2023-03-20
 Weight: 2
 ---
