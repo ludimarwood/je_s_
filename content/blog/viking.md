@@ -1,10 +1,10 @@
 ---
-title: "Un coeur trop rouge"
+title: "Viking, un coeur trop rouge"
 date: 2023-03-20
 Weight: 2
 ---
 
-## Un coeur trop rouge
+## *Viking*, un coeur trop rouge
 
 Les films sont de couleurs. Facilement repérables dans la photographie, elles sont plus subtiles dans les thèmes, au travers des gestes ou des regards. Trouver le départ d’une couleur, voilà qui intrigue. Le mécanisme à apprivoiser. Oui. L’une m’échappe. Naïve primaire. Ressentie d’occasion, je la tais systématiquement. Rouge, non, je ne devrais la nommer. Impossible. N’accepter de définition trop commune. Il faut que je m’y penche. Que j’appelle. Que j’établisse
 Le Moment Rouge. 
