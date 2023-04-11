@@ -8,7 +8,5 @@
 > Serge Daney
 
 
-![aftersun](/images/aftersun.jpg)
 
-![viking](/images/viking.jpg)
 
