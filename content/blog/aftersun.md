@@ -20,3 +20,5 @@ Je me souviens, le plan des adolescent.e.s inatteignables. Sophie est avec des j
  
 Un album d’émotion. La magie intime d’Aftersun. Ne pas forcer, ne pas obliger. Montrer, cadrer simple, alterner. C’est tout. C’est réussi. C’est fort. C’est dur. Je me retrouve à être cet.te enfant seul.e sur scène. Moi aussi chante faux. Moi aussi j’attends que mon père veuille bien me rejoindre. Moi aussi je perds mon sourire petit à petit. Moi aussi ma voix se brise quand je prononce That’s me in the corner, that’s me in the spotlight, alors que j’ai entendu ces paroles encore et encore. Moi aussi je termine mes étés dans le flou. En une mise en abyme. Une image dans une image. Une photo polaroïd déposée sur une table de restaurant.  Calum et Sophie souriant, presque flou. La douleur de l’émotion enfermée, capturée, apparaissant au même rythme que la photo et les sourires. C’est si difficile de cadrer ses blessures oubliées. C’est rare un film qui parvient à le faire. Par sa sensibilité. Par son regard tendre, simple. Par ses cadres. Aftersun. Me rappelle une enfance enfouie.
 
+[Aftersun](https://www.youtube.com/watch?v=G9jOaggGPKQ) (2022), réalisé par Charlotte Wells
+
