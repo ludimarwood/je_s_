@@ -22,5 +22,5 @@ Notre zine travaille des critiques libérées dans leurs opinions, comme dans le
 
 
 
-[^1]: c.f notre manifeste dans la section [Critiques](https://ludimarwood.github.io/je_s_/blog/)
+[^1]: c.f notre [Manifeste](https://ludimarwood.github.io/je_s_/blog/manifeste/) dans la section [Critiques](https://ludimarwood.github.io/je_s_/blog/)
 [^2]: n'était-ce pas Godard qui disait que les films ne peuvent être critiqués qu'en poésie ?
