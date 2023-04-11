@@ -8,5 +8,5 @@
 > Serge Daney
 
 
-![aftersun](/post/aftersun.jpg)
+![aftersun](/posts/aftersun.jpg)
 
