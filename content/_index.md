@@ -7,6 +7,3 @@
 > 
 > Serge Daney
 
-
-![aftersun](/posts/Aftersun.jpg)
-
