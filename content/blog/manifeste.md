@@ -14,11 +14,11 @@ weight: 1
 
 -	La critique épouse la forme de l’objet critiqué. C’est cette dernière qui va moduler sa pensée. 
 
--	Nous, groupe de critique, embrassons nos dissidences, cultive nos individualités. 
+-	Nous, groupe de critique, embrassons nos dissidences, cultivons nos individualités. 
 
 -	La critique prend toute forme, sauf celle standardisée par la critique actuelle. Il n’y a pas un médium critique. 
 
--	Le.a critique porte une responsabilité vis-à-vis du devenir du cinéma. Iel prône son cinéma futur qu’iel s’attelle à promouvoir.
+-	Le.a critique porte une responsabilité vis-à-vis du devenir du cinéma. Iel prône son cinéma futur, qu’iel s’attelle à promouvoir.
 
 -	Le.a critique écrit au service de son cinéma. Iel n’est pas contraint.e par son lectorat. 
 
