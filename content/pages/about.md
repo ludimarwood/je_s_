@@ -13,4 +13,4 @@ Nous avons remarqué que la critique actuelle était très limitée. Tout d’ab
 
 
 
-[^1]: n'était-ce pas Godard qui disait que les films ne peuvent critiqués qu'en poésie ?
+[^1]: n'était-ce pas Godard qui disait que les films ne peuvent être critiqués qu'en poésie ?
