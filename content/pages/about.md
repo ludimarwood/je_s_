@@ -10,9 +10,13 @@ Nous sommes étudiant.e.s s en cinéma et nous écrivons des critiques cinémato
 *Notre objectif*
 
 Nous avons remarqué que la critique actuelle était très limitée. 
+
 Par une standardisation de sa forme : résumé de l’œuvre, analyse de l’objet filmique, conclusion passant par une petite opinion du film. 
+
 Dans sa prise de position : l’influence des maisons de production aujourd’hui (entres autres) exerce un pouvoir de « censure » sur les critiques cinématographiques, les empêchant de donner réellement un avis sur les films sous peine de se voir refuser l’entrée dans des salles de cinéma ou à des festivals. 
+
 Par une volonté « d’objectivité » dans les critiques, terme que nous remettons en cause[^1]. 
+
 Notre zine travaille des critiques libérées dans leurs opinions, comme dans leurs formes[^2]. Nous avons pour volonté de refléter et de respecter au plus proche l’objet filmique critiqué. 
 
 
