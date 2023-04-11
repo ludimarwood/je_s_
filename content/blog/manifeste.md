@@ -1,4 +1,5 @@
 --- 
+date: "2023-01-31"
 title: Manifeste
 editor: nous (je(s))
 weight: 1
