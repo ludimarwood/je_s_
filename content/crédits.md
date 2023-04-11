@@ -2,14 +2,14 @@
 title: "Crédits"
 ---
 
-## Nos inspirations, aspirations
+## Nos inspirations
 
-### Nous nous inspirons humblement:
+### Nous aspirons humblement à continuer leur travail
 
-*des éternel.le.s*
+*les éternel.le.s*
 
 Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,...
 
-*mais aussi de...* 
+*mais aussi les bien vivant.e.s* 
 
 André Habib, Olivia Rosenthal,...
