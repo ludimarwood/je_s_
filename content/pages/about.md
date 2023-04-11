@@ -16,5 +16,7 @@ Par une volonté « d’objectivité » dans les critiques, terme que nous remet
 Notre zine travaille des critiques libérées dans leurs opinions, comme dans leurs formes[^2]. Nous avons pour volonté de refléter et de respecter au plus proche l’objet filmique critiqué. 
 
 
-[^1] c.f notre manifeste dans la section *Critiques*
+
+
+[^1]: c.f notre manifeste dans la section [Critiques](https://ludimarwood.github.io/je_s_/blog/)
 [^2]: n'était-ce pas Godard qui disait que les films ne peuvent être critiqués qu'en poésie ?
