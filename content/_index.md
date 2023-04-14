@@ -1,5 +1,7 @@
 
-### Un zine cinématographique. {{< hint [Un|zine|cinématographique] >}} **Contenu en Markdown**
+### Un zine cinématographique. {{< hint [Un|zine|cinématographique] >}}**Contenu en Markdown**
+
+info, warning and danger. {{< hint [info|warning|danger] >}}**Un zine cinématographique**
 
 > *Toute ma cinéphilie est faite sur une idée, assez idéaliste d’ailleurs, que les films sont comme des gens : on les rencontre, on les perd de vue, on les retrouve.* 
 > 
