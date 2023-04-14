@@ -10,7 +10,7 @@
 
 [![viking](/content/viking.jpg)](https://ludimarwood.github.io/je_s_/blog/viking/)
 
-![aftersun](/content/Aftersun.jpg)
+[![aftersun](/content/Aftersun.jpg)](https://ludimarwood.github.io/je_s_/blog/aftersun/)
 
 
 
