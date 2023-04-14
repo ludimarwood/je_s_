@@ -7,3 +7,6 @@
 > 
 > Serge Daney
 
+
+![viking](/content/viking.jpg)
+
