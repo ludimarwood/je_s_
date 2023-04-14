@@ -21,7 +21,6 @@ Un album d’émotion. La magie intime d’Aftersun. Ne pas forcer, ne pas oblig
 
 [Aftersun](https://www.youtube.com/watch?v=G9jOaggGPKQ) (2022), réalisé par Charlotte Wells
 
-Pour aller à la critique suivante # {{< button relref="/" [class="..."] >}}Aftersun{{< /button >}} {{< button href="https://ludimarwood.github.io/je_s_/blog/aftersun/" >}}Github du thème Book{{< /button >}} Retour à Aftersun
 
 
 
