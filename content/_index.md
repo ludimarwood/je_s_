@@ -1,4 +1,5 @@
 
+### Un zine cinématographique. 
 body {
   min-width: $body-min-width;
   color: var(--body-font-color);
@@ -15,7 +16,6 @@ body {
     box-sizing: inherit;
   }
 }
-### Un zine cinématographique. 
 
 
 > *Toute ma cinéphilie est faite sur une idée, assez idéaliste d’ailleurs, que les films sont comme des gens : on les rencontre, on les perd de vue, on les retrouve.* 
