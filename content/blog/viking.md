@@ -38,6 +38,3 @@ Stéphane Lafleur me le donne. Mon dernier rouge. Un dernier plan de Mars, cette
 [Viking](https://www.youtube.com/watch?v=oGQz7Es4xs8) (2022), réalisé par Stéphane Lafleur
 
  
- Pour aller à la critique suivante: 
- 
-{{< button relref="/" [class="..."] >}}Retour à l'accueil{{< /button >}} {{< button href="https://ludimarwood.github.io/je_s_/blog/aftersun/" >}}Aftersun{{< /button >}} Retour à l’accueil Aftersun
