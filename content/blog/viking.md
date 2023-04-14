@@ -6,7 +6,7 @@ Weight: 2
 
 ## *Viking*, un coeur trop rouge
 
-![viking](/images/viking.jpg)
+![viking](/content/viking.jpg)
 
 Je ne sais pas écrire une critique. Et je ne sais pas parler des films. Je ne suis même pas sûr.e de savoir les regarder, les écouter. Peu importe, je sais ressentir. Et essayer d’écrire ce que je ressens. Trouver des mots d’émotions, de la couleur d’émotions. Viking avait une couleur. Partout. Dans les plans, les objets, la colère des personnages. Rouge. Viking est un film rouge. Rouge nouveau, rouge sang, rouge douleur et désillusion. J’observe. J’analyse mes rouges, mêlés à ceux de Stéphane Lafleur. 
 
