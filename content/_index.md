@@ -1,6 +1,6 @@
 
-### Un zine cinématographique. 
-body {
+
+body {### Un zine cinématographique. 
   min-width: $body-min-width;
   color: var(--body-font-color);
   background: var(--body-background);
