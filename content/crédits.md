@@ -8,7 +8,7 @@ title: "Crédits"
 
 
 
-# {{< expand >}} ## *les éternel.le.s* Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... {{< /expand >}} Expand ↕ *les éternel.le.s* # Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... 
+# {{< *les éternel.le.s* >}} ## Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... {{< /expand >}} Expand ↕ 
 
 
 
