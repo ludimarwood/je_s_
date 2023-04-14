@@ -6,8 +6,8 @@ editor: nous (je(s))
 # Qui sommes-nous ?
 
 Nous sommes étudiant.e.s s en cinéma et nous écrivons des critiques cinématographique. 
-
-*Notre objectif*
+ 
+ *Notre objectif*
 
 Nous avons remarqué que la critique actuelle était très limitée. 
 
