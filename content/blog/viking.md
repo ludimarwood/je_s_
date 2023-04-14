@@ -40,5 +40,4 @@ Stéphane Lafleur me le donne. Mon dernier rouge. Un dernier plan de Mars, cette
  
  Pour aller à la critique suivante: 
  
- {{< button relref="/" [class="..."] >}}Aftersun{{< /button >}} {{< button href="https://ludimarwood.github.io/je_s_/blog/aftersun/" >}}Github du thème Book{{< /button >}} Aftersun Github du thème Book
-
+ {{< button relref="/" [class="..."] >}}Aftersun{{< /button >}} {{< button href="https://ludimarwood.github.io/je_s_/blog/aftersun/" >}}
