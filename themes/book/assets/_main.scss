@@ -2,14 +2,14 @@
 
 html {
   font-size: $font-size-base;
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
   touch-action: manipulation;
 }
 
 body {
   min-width: $body-min-width;
-  color: var(--body-font-color);
-  background: var(--body-background);
+  color: #000000(--body-font-color);
+  background: lightblue(--body-background); 
 
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
@@ -113,7 +113,7 @@ ul.pagination {
 
   a,
   label {
-    color: inherit;
+    color: inherit; 
     cursor: pointer;
     word-wrap: break-word;
   }
