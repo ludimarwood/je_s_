@@ -12,7 +12,3 @@ title: "Crédits"
 {{< details title="mais aussi les bien vivant.e.s" open=true >}} ## André Habib, Olivia Rosenthal, Denis Côté, François Bégaudeau... {{< /details >}}
 
 
-*mais aussi les bien vivant.e.s* 
-
-André Habib, Olivia Rosenthal, Denis Côté, François Bégaudeau...
-
