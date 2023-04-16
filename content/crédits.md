@@ -6,7 +6,7 @@ title: "Crédits"
 
 ### Nous aspirons humblement à continuer leur travail
 
- {{< extand >}} *les éternel.le.s* ## Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... {{< /extand >}}
+ {{< extand >}} ## Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... {{< *les éternel.le.s*/extand >}}
  
    
 
