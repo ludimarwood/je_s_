@@ -8,8 +8,7 @@ title: "Crédits"
 
  {{< extand >}} ## *les éternel.le.s* Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... {{< /extand >}}
 
-{{< details "Title" [open] >}} ## *mais aussi les bien vivant.e.s* {{< /details >}}
-{{< expand >}} ## André Habib, Olivia Rosenthal, Denis Côté, François Bégaudeau...
+{{< details "Title" [open] >}} ## *mais aussi les bien vivant.e.s* {{< /details >}} {{< expand >}} ## André Habib, Olivia Rosenthal, Denis Côté, François Bégaudeau...
  {{< /expand >}}
 
 
