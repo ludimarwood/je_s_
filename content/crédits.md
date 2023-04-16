@@ -9,7 +9,7 @@ title: "Crédits"
 {{< expand >}} ## Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... {{< /expand >}}
 
 
-{{< details title="Title" open=true >}} ## Contenu en Markdown Lorem markdownum insigne... {{< /details >}}
+{{< details title="mais aussi les bien vivant.e.s" open=true >}} ## André Habib, Olivia Rosenthal, Denis Côté, François Bégaudeau... {{< /details >}}
 
 
 *mais aussi les bien vivant.e.s* 
