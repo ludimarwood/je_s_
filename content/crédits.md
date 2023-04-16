@@ -9,7 +9,7 @@ title: "Crédits"
  {{< extand >}} ## *les éternel.le.s* Jean-Luc Godard, Patrick Straram, Pauline Kael, Serge Daney, André Bazin,... {{< /extand >}}
  
    
-{{< details title="Title" open=true >}} ## Contenu en Markdown Lorem markdownum insigne... {{< /details >}} 
+{{< details "Title" [open] >}} ## Contenu en Markdown Lorem markdownum insigne... {{< /details >}} {{< details title="Title" open=true >}} ## Contenu en Markdown Lorem markdownum insigne... {{< /details >}}
 
 *mais aussi les bien vivant.e.s*
 
