@@ -10,9 +10,9 @@
 > Serge Daney
 
 
-[![viking](viking.jpg)](https://ludimarwood.github.io/je_s_/blog/viking/)
+[![viking](viking.jpg)](https://ludimarwood.github.io/je_s_/blog/viking/)  [![aftersun](Aftersun.jpg)](https://ludimarwood.github.io/je_s_/blog/aftersun/)
 
-[![aftersun](Aftersun.jpg)](https://ludimarwood.github.io/je_s_/blog/aftersun/)
+
 
 
 
