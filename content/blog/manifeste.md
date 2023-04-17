@@ -33,3 +33,6 @@ weight: 1
 -	Le.a critique n’est pas l’ami.e du cinéma et n’a pas d’ami.e de cinéma. 
 
 -	L’étude du film est plus pauvre que l’étude du « je » critique. Critiquer un film, c’est étudier un objet plus riche pour comprendre un objet plus pauvre. 
+
+
+{{< button href="https://ludimarwood.github.io/je_s_/blog/viking/" >}}Critique suivante, Viking{{< /button >}}
