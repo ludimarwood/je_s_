@@ -6,7 +6,7 @@ Weight: 2
 
 ## *Viking*, un coeur trop rouge
 
-![viking](../viking.jpg)
+![image](https://ludimarwood.github.io/je_s_/viking.jpg)
 
 Je ne sais pas écrire une critique. Et je ne sais pas parler des films. Je ne suis même pas sûr.e de savoir les regarder, les écouter. Peu importe, je sais ressentir. Et essayer d’écrire. Trouver des mots d’émotions ou de la couleur. Viking eb avait une. Dans les plans, les objets, la colère des personnages. Rouge. *Viking* est un film rouge. Rouge nouveau, rouge sang, rouge douleur et désillusion. J’observe. J’analyse mes rouges, mêlés à ceux de son réalisateur, Stéphane Lafleur. 
 
