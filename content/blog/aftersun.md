@@ -6,7 +6,7 @@ weight: 3
 
 ## *Aftersun*, l'album de mes photos oubliées
 
-![Aftersun](../Aftersun.jpg)
+![image](https://ludimarwood.github.io/je_s_/Aftersun.jpg)
 
 Plan taille. Une petite fille debout sur une scène, un micro dans la main. Elle chante *Losing my religion*. Elle chante faux. Elle sourit, appelle de la main quelqu’un en hors champ. Plan poitrine. Un homme dans le public, son verre vide. Il ne sourit pas. Il regarde en direction de la musique, de la voix, de la petite fille. Sur scène, l’enfant petit à petit sans sourire. Insert. Une télévision de karaoké, des paroles défilent et une phrase nous retient, en évidence. *I think I thought I saw you try*. Gros plan. La petite fille ne sourit plus. Elle n’appelle plus. Elle finit sa chanson, seule. Cette petite fille c’est Sophie.  
 
