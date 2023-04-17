@@ -9,7 +9,7 @@ html {
 body {
   min-width: $body-min-width;
   color: #6C1F0E(--body-font-color);
-  background: #F5F5DC(--body-background:Beige;); 
+  background: #F5F5DC(--body-background); 
 
   letter-spacing: 0.33px;
   font-weight: $body-font-weight;
@@ -23,7 +23,7 @@ body {
   }
 }
 
-h1,
+h1,<h1 style="background-color:Beige;"
 h2,
 h3,
 h4,
