@@ -3,7 +3,7 @@
 ### Un zine cinématographique. 
 
 
-> *Toute ma cinéphilie est faite sur une idée, assez idéaliste d’ailleurs, que les films sont comme des gens : on les rencontre, on les perd de vue, on les retrouve.* 
+> *Ecrire, c'est reconnaître ce qui s'est déjà écrit. Dans le film (le film comme dépot organisé de signes) et dans moi (organisé par un dépot de traces mnésiques qui, à la longue, constituent aussi mon histoire).* 
 > 
 > Serge Daney
 
